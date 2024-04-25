@@ -16,6 +16,8 @@
     "@react-navigation/native-stack": "^6.9.26",
     "react": "18.2.0",
     "react-native": "0.73.6",
+    "react-native-push-notification": "^8.1.1",
+    "react-native-status-bar-height": "^2.6.0",
     "react-native-vector-icons": "^10.0.3"
   },
   "devDependencies": {
